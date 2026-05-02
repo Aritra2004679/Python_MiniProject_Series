@@ -92,14 +92,4 @@ This project helps in understanding:
 * Basic problem-solving approach
 * Writing clean and readable code
 * Structuring a simple Python program
-
----
-
-## 🚀 Future Improvements
-
-* Return results as a list instead of printing
-* Add input validation
-* Implement a GUI or web-based version
-* Write unit tests
-
 ---
