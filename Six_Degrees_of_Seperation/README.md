@@ -170,7 +170,8 @@ Degrees of Separation : 3
 
 > Insert your graph screenshot below.
 
-![Network Graph](output_graph.png)
+![Network Graph](network_graph.png)
+![alt text](image.png)
 
 ---
 

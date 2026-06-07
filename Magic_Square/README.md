@@ -228,7 +228,7 @@ The sum of each row/column/diagonal is: 65
 
 # 📁 Project Structure
 
-Magic_Square
+Magic_Square/
 │
 ├── code.py
 └── README.md
